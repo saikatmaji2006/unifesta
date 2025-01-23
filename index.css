@@ -1,0 +1,2327 @@
+.text-wrapper {
+  display: contents;
+}
+ 
+.text-container {
+  display: flex;
+  position: relative;
+}
+ 
+.textroot-class-name {
+  top: 153px;
+  left: 383px;
+  position: absolute;
+}
+
+.frame88-container {
+  width: 100vw; /* Container width scales with the viewport width */
+  height: 50vh; /* Container height scales with the viewport height */
+  display: flex;
+  overflow: auto;
+  min-height: 100vh;
+  align-items: center;
+  flex-direction: column;
+}
+ 
+.frame88-frame88 {
+  width: 1200px; /* Container width scales with the viewport width */
+  height: 50vh; /* Container height scales with the viewport height */
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+  background-color: rgba(255, 255, 255, 1);
+}
+ 
+.frame88-frame94 {
+  top: 125.19588470458984px;
+  left: 3.193794012069702px;
+  width: 1208px;
+  height: 226.11924743652344px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  align-items: center;
+  flex-shrink: 0;
+  border-color: rgba(194, 194, 194, 1);
+  border-style: solid;
+  border-width: 0.6387549042701721px;
+  justify-content: flex-start;
+}
+ 
+.frame88-frame93 {
+  top: 3.1943089962005615px;
+  left: 463.0972900390625px;
+  width: 744px;
+  height: 222.28672790527344px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+ 
+.frame88image240f1012703845jo4-ah7sv3qdsdw-gyo0-ac3-vh-awm5o-tpj {
+  top: -0.6393662691116333px;
+  left: 0.0000623507730779238px;
+  width: 744px;
+  height: 222px;
+  position: absolute;
+}
+ 
+.frame88-text10 {
+  top: 32px;
+  left: 22px;
+  color: rgb(240, 0, 99);
+  width: 454px;
+  height: auto;
+  position: absolute;
+  font-size: 17.2464px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Great Vibes;
+  font-weight: 400;
+  line-height: 12.7751px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.frame88-group21 {
+  top: 131.58343505859375px;
+  left: 21.078874588012695px;
+  width: 301.49249267578125px;
+  height: 48.545372009277344px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+ 
+.frame88-rectangle20 {
+  top: 0px;
+  left: 0px;
+  width: 267px;
+  height: 49px;
+  position: absolute;
+  box-sizing: content-box;
+  border-color: rgba(194, 194, 194, 1);
+  border-style: solid;
+  border-width: 3.193774461746216px;
+  border-radius: 3.832529306411743px;
+}
+ 
+.frame88-text16 {
+  top: 22px;
+  color: rgb(188, 188, 188);
+  right: -2px;
+  width: 269px;
+  height: auto;
+  position: absolute;
+  font-size: 14.0526px;
+  font-style: Bold;
+  text-align: left;
+  font-family: "Merriweather";
+  font-weight: 700;
+  line-height: 14.0526px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.frame88-text17 {
+  top: 138px;
+  left: 312px;
+  color: rgba(242, 47, 125, 1);
+  width: 75px;
+  height: auto;
+  position: absolute;
+  font-size: 15.330117225646973px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Baloo Bhai;
+  font-weight: 400;
+  line-height: 14.052607536315918px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.frame88-shape1 {
+  top: 151px;
+  left: 31px;
+  width: 22px;
+  height: 19px;
+  position: absolute;
+}
+ 
+.frame88-frame96 {
+  top: 348.12176513671875px;
+  left: 1.2775052785873413px;
+  width: 1204px;
+  height: 185.877685546875px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+ 
+.frame88bday1 {
+  top: 63.875308990478516px;
+  left: 47.906578063964844px;
+  width: 96px;
+  height: 96px;
+  position: absolute;
+  border-radius: 47.9066162109375px;
+}
+ 
+.frame88-varmala-the-first-step-in-brand-new-start-of-couples-life-jou {
+  top: 63.875308990478516px;
+  left: 222.9254150390625px;
+  width: 96px;
+  height: 96px;
+  position: absolute;
+}
+ 
+.frame88-shutterstock12011750651024x684 {
+  top: 63.875308990478516px;
+  left: 396.666748046875px;
+  width: 96px;
+  height: 96px;
+  position: absolute;
+}
+ 
+.frame88-tamilnadudiwali {
+  top: 63.875308990478516px;
+  left: 569.130615234375px;
+  width: 96px;
+  height: 96px;
+  position: absolute;
+}
+ 
+.frame88-istockphoto497317250612x612 {
+  top: 63.875308990478516px;
+  left: 744.149658203125px;
+  width: 96px;
+  height: 96px;
+  position: absolute;
+}
+ 
+.frame88svg6392d66eb869c97ea869e8631670567534943 {
+  top: 63.875308990478516px;
+  left: 919.1682739257812px;
+  width: 96px;
+  height: 96px;
+  position: absolute;
+}
+ 
+.frame88-ellipse6 {
+  top: 63.875308990478516px;
+  left: 919.1682739257812px;
+  width: 96px;
+  height: 96px;
+  position: absolute;
+}
+ 
+.frame88-text18 {
+  top: 90.06450653076172px;
+  left: 948.5509643554688px;
+  color: rgba(255, 250, 250, 0.8700000047683716);
+  width: 96px;
+  height: auto;
+  opacity: 0.89;
+  position: absolute;
+  font-size: 61.32046890258789px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Cambo;
+  font-weight: 400;
+  line-height: 14.052607536315918px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.frame88-text19 {
+  top: 21.078603744506836px;
+  left: 51.100433349609375px;
+  color: rgba(59, 57, 57, 0.9700000286102295);
+  width: 364px;
+  height: auto;
+  position: absolute;
+  font-size: 30.660234451293945px;
+  font-style: Black;
+  text-align: left;
+  font-family: Lato;
+  font-weight: 900;
+  line-height: 12.775097846984863px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.frame88-text20 {
+  top: 165.4373779296875px;
+  left: 65.79171752929688px;
+  color: rgba(0, 0, 0, 1);
+  width: 59px;
+  height: auto;
+  position: absolute;
+  font-size: 15.330117225646973px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Roboto;
+  font-weight: 400;
+  line-height: 14.052607536315918px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.frame88-text21 {
+  top: 165.4373779296875px;
+  left: 240.17189025878906px;
+  color: rgba(0, 0, 0, 1);
+  width: 66px;
+  height: auto;
+  position: absolute;
+  font-size: 15.330117225646973px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Roboto;
+  font-weight: 400;
+  line-height: 14.052607536315918px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.frame88-text22 {
+  top: 165.4373779296875px;
+  left: 761.39599609375px;
+  color: rgba(0, 0, 0, 1);
+  width: 57px;
+  height: auto;
+  position: absolute;
+  font-size: 15.330117225646973px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Roboto;
+  font-weight: 400;
+  line-height: 14.052607536315918px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.frame88-text23 {
+  top: 165.4373779296875px;
+  left: 405.6093444824219px;
+  color: rgba(0, 0, 0, 1);
+  width: 90px;
+  height: auto;
+  position: absolute;
+  font-size: 15.330117225646973px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Roboto;
+  font-weight: 400;
+  line-height: 14.052607536315918px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.frame88-text24 {
+  top: 165.4373779296875px;
+  left: 586.376953125px;
+  color: rgba(0, 0, 0, 1);
+  width: 66px;
+  height: auto;
+  position: absolute;
+  font-size: 15.330117225646973px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Roboto;
+  font-weight: 400;
+  line-height: 14.052607536315918px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.frame88-text25 {
+  top: 165.4373779296875px;
+  left: 940.8860473632812px;
+  color: rgba(207, 3, 85, 1);
+  width: 46px;
+  height: auto;
+  position: absolute;
+  font-size: 15.330117225646973px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Roboto;
+  font-weight: 400;
+  line-height: 14.052607536315918px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.frame88i-phone1415-pro-max13 {
+  gap: 24.911441802978516px;
+  top: 973.2948608398438px;
+  left: 0px;
+  width: 2561px;
+  display: flex;
+  padding: 23.633930206298828px 25.550195693969727px;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  flex-direction: column;
+  background-color: rgba(255, 255, 255, 0);
+}
+ 
+.frame88-text26 {
+  color: rgba(59, 57, 57, 0.9700000286102295);
+  height: auto;
+  font-size: 30.660234451293945px;
+  align-self: stretch;
+  font-style: Black;
+  text-align: left;
+  font-family: Lato;
+  font-weight: 900;
+  line-height: 12.775097846984863px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.frame88-frame971 {
+  width: 2509.830322265625px;
+  height: 325.1262512207031px;
+  display: flex;
+  position: relative;
+  align-self: stretch;
+  align-items: flex-start;
+  overflow-x: auto;
+}
+ 
+.frame88-group92 {
+  top: 0.16799895465373993px;
+  left: 0.00001910460923681967px;
+  width: 2494.338134765625px;
+  height: 325.1262512207031px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+ 
+.frame88-frame861 {
+  top: 1.2772938013076782px;
+  left: 1061.610595703125px;
+  width: 315.5449523925781px;
+  height: 322.5712585449219px;
+  display: flex;
+  position: absolute;
+  box-shadow: 0px 2.5550196170806885px 2.5550196170806885px 0px rgba(222, 201, 201, 1) ;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: rgba(0, 0, 0, 0.23999999463558197);
+  border-style: solid;
+  border-width: 1.9162646532058716px;
+  border-radius: 10.220078468322754px;
+}
+ 
+.frame88-group1010 {
+  top: 196.7366180419922px;
+  left: 10.220121383666992px;
+  width: 255.20217895507812px;
+  height: 61.16123580932617px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+ 
+.frame88-text27 {
+  top: 32.074974060058594px;
+  left: 27.8618106842041px;
+  color: rgba(99, 99, 99, 1);
+  width: 152px;
+  height: auto;
+  position: absolute;
+  font-size: 8.942567825317383px;
+  font-style: Bold;
+  text-align: left;
+  font-family: Lato;
+  font-weight: 700;
+  line-height: 12.775097846984863px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.frame88-text30 {
+  color: rgba(0, 0, 0, 1);
+  width: 255px;
+  height: auto;
+  position: absolute;
+  font-size: 10.220078468322754px;
+  font-style: Black;
+  text-align: left;
+  font-family: Lato;
+  font-weight: 900;
+  line-height: 12.775097846984863px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.frame88-outdoorweddingvenuesinkolkatatocelebrateyourweddin10 {
+  top: 1.2776405811309814px;
+  left: -0.00004355116107035428px;
+  width: 316px;
+  height: 190px;
+  position: absolute;
+  border-radius: 6.387548923492432px 6.387548923492432px 0 0;
+}
+ 
+.frame88-group1110 {
+  top: 13.5728178024292px;
+  left: 228.2331085205078px;
+  width: 75.05946350097656px;
+  height: 40.72062683105469px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+  background-color: rgba(51, 118, 11, 1);
+}
+ 
+.frame88-star310 {
+  top: 7.757117748260498px;
+  left: 6.672006607055664px;
+  width: 25px;
+  height: 25px;
+  position: absolute;
+}
+ 
+.frame88-text31 {
+  top: 27.46634292602539px;
+  left: 265.4607849121094px;
+  color: rgba(255, 255, 255, 1);
+  width: 50px;
+  height: auto;
+  position: absolute;
+  font-size: 22.995176315307617px;
+  font-style: Black;
+  text-align: left;
+  font-family: Lato;
+  font-weight: 900;
+  line-height: 12.775097846984863px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.frame88-star710 {
+  top: 21.329872131347656px;
+  left: 234.90589904785156px;
+  width: 22px;
+  height: 19px;
+  position: absolute;
+}
+ 
+.frame88-frame871 {
+  top: 0.00009736098581925035px;
+  left: 707.7403564453125px;
+  width: 315.5449523925781px;
+  height: 322.5712585449219px;
+  display: flex;
+  position: absolute;
+  box-shadow: 0px 2.5550196170806885px 2.5550196170806885px 0px rgba(222, 201, 201, 1) ;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: rgba(0, 0, 0, 0.23999999463558197);
+  border-style: solid;
+  border-width: 1.9162646532058716px;
+  border-radius: 10.220078468322754px;
+}
+ 
+.frame88-group1011 {
+  top: 196.73626708984375px;
+  left: 10.220236778259277px;
+  width: 255.20217895507812px;
+  height: 61.16082763671875px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+ 
+.frame88-text32 {
+  top: 32.074623107910156px;
+  left: 27.862049102783203px;
+  color: rgba(99, 99, 99, 1);
+  width: 152px;
+  height: auto;
+  position: absolute;
+  font-size: 8.942567825317383px;
+  font-style: Bold;
+  text-align: left;
+  font-family: Lato;
+  font-weight: 700;
+  line-height: 12.775097846984863px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.frame88-text33 {
+  color: rgba(0, 0, 0, 1);
+  width: 255px;
+  height: auto;
+  position: absolute;
+  font-size: 10.220078468322754px;
+  font-style: Black;
+  text-align: left;
+  font-family: Lato;
+  font-weight: 900;
+  line-height: 12.775097846984863px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.frame88-outdoorweddingvenuesinkolkatatocelebrateyourweddin11 {
+  top: 1.2772938013076782px;
+  left: 0.00007096424087649211px;
+  width: 316px;
+  height: 190px;
+  position: absolute;
+  border-radius: 6.387548923492432px 6.387548923492432px 0 0;
+}
+ 
+.frame88-group1111 {
+  top: 13.572965621948242px;
+  left: 228.23333740234375px;
+  width: 75.05946350097656px;
+  height: 40.72062683105469px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+  background-color: rgba(51, 118, 11, 1);
+}
+ 
+.frame88-star311 {
+  top: 7.756771087646484px;
+  left: 6.672000408172607px;
+  width: 25px;
+  height: 25px;
+  position: absolute;
+}
+ 
+.frame88-text34 {
+  top: 27.46649169921875px;
+  left: 265.4607849121094px;
+  color: rgba(255, 255, 255, 1);
+  width: 50px;
+  height: auto;
+  position: absolute;
+  font-size: 22.995176315307617px;
+  font-style: Black;
+  text-align: left;
+  font-family: Lato;
+  font-weight: 900;
+  line-height: 12.775097846984863px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.frame88-star711 {
+  top: 21.329524993896484px;
+  left: 234.90589904785156px;
+  width: 22px;
+  height: 19px;
+  position: absolute;
+}
+ 
+.frame88-frame851 {
+  top: 0.00009736098581925035px;
+  left: 353.8701171875px;
+  width: 315.5449523925781px;
+  height: 322.5712585449219px;
+  display: flex;
+  position: absolute;
+  box-shadow: 0px 2.5550196170806885px 2.5550196170806885px 0px rgba(222, 201, 201, 1) ;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: rgba(0, 0, 0, 0.23999999463558197);
+  border-style: solid;
+  border-width: 1.9162646532058716px;
+  border-radius: 10.220078468322754px;
+}
+ 
+.frame88-group1012 {
+  top: 196.73626708984375px;
+  left: 10.220107078552246px;
+  width: 255.20217895507812px;
+  height: 61.16082763671875px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+ 
+.frame88-text35 {
+  top: 32.074623107910156px;
+  left: 27.862041473388672px;
+  color: rgba(99, 99, 99, 1);
+  width: 152px;
+  height: auto;
+  position: absolute;
+  font-size: 8.942567825317383px;
+  font-style: Bold;
+  text-align: left;
+  font-family: Lato;
+  font-weight: 700;
+  line-height: 12.775097846984863px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.frame88-text36 {
+  color: rgba(0, 0, 0, 1);
+  width: 255px;
+  height: auto;
+  position: absolute;
+  font-size: 10.220078468322754px;
+  font-style: Black;
+  text-align: left;
+  font-family: Lato;
+  font-weight: 900;
+  line-height: 12.775097846984863px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.frame88-outdoorweddingvenuesinkolkatatocelebrateyourweddin12 {
+  top: 1.2772938013076782px;
+  left: -0.000058660989452619106px;
+  width: 316px;
+  height: 190px;
+  position: absolute;
+  border-radius: 6.387548923492432px 6.387548923492432px 0 0;
+}
+ 
+.frame88-group1112 {
+  top: 13.572965621948242px;
+  left: 228.23333740234375px;
+  width: 75.05946350097656px;
+  height: 40.72062683105469px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+  background-color: rgba(51, 118, 11, 1);
+}
+ 
+.frame88-star312 {
+  top: 7.756771087646484px;
+  left: 6.671870708465576px;
+  width: 25px;
+  height: 25px;
+  position: absolute;
+}
+ 
+.frame88-text37 {
+  top: 27.46649169921875px;
+  left: 265.4606628417969px;
+  color: rgba(255, 255, 255, 1);
+  width: 50px;
+  height: auto;
+  position: absolute;
+  font-size: 22.995176315307617px;
+  font-style: Black;
+  text-align: left;
+  font-family: Lato;
+  font-weight: 900;
+  line-height: 12.775097846984863px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.frame88-star712 {
+  top: 21.329524993896484px;
+  left: 234.90576171875px;
+  width: 22px;
+  height: 19px;
+  position: absolute;
+}
+ 
+.frame88-frame841 {
+  top: 0px;
+  left: 0px;
+  width: 315.5449523925781px;
+  height: 322.5712585449219px;
+  display: flex;
+  position: absolute;
+  box-shadow: 0px 2.5550196170806885px 2.5550196170806885px 0px rgba(222, 201, 201, 1) ;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: rgba(0, 0, 0, 0.23999999463558197);
+  border-style: solid;
+  border-width: 1.9162646532058716px;
+  border-radius: 10.220078468322754px;
+}
+ 
+.frame88-group1013 {
+  top: 196.73626708984375px;
+  left: 10.220038414001465px;
+  width: 255.20217895507812px;
+  height: 61.16082763671875px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+ 
+.frame88-text38 {
+  top: 32.074623107910156px;
+  left: 27.86197280883789px;
+  color: rgba(99, 99, 99, 1);
+  width: 152px;
+  height: auto;
+  position: absolute;
+  font-size: 8.942567825317383px;
+  font-style: Bold;
+  text-align: left;
+  font-family: Lato;
+  font-weight: 700;
+  line-height: 12.775097846984863px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.frame88-text39 {
+  color: rgba(0, 0, 0, 1);
+  width: 255px;
+  height: auto;
+  position: absolute;
+  font-size: 10.220078468322754px;
+  font-style: Black;
+  text-align: left;
+  font-family: Lato;
+  font-weight: 900;
+  line-height: 12.775097846984863px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.frame88-outdoorweddingvenuesinkolkatatocelebrateyourweddin13 {
+  top: 1.2772938013076782px;
+  left: -0.0000037310951483959798px;
+  width: 316px;
+  height: 190px;
+  position: absolute;
+  border-radius: 6.387548923492432px 6.387548923492432px 0 0;
+}
+ 
+.frame88-group1113 {
+  top: 13.572965621948242px;
+  left: 228.2332763671875px;
+  width: 75.05946350097656px;
+  height: 40.72062683105469px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+  background-color: rgba(51, 118, 11, 1);
+}
+ 
+.frame88-star313 {
+  top: 7.756771087646484px;
+  left: 6.671985149383545px;
+  width: 25px;
+  height: 25px;
+  position: absolute;
+}
+ 
+.frame88-text40 {
+  top: 27.46649169921875px;
+  left: 265.460693359375px;
+  color: rgba(255, 255, 255, 1);
+  width: 50px;
+  height: auto;
+  position: absolute;
+  font-size: 22.995176315307617px;
+  font-style: Black;
+  text-align: left;
+  font-family: Lato;
+  font-weight: 900;
+  line-height: 12.775097846984863px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.frame88-star713 {
+  top: 21.329524993896484px;
+  left: 234.90594482421875px;
+  width: 22px;
+  height: 19px;
+  position: absolute;
+}
+ 
+.frame88-frame842 {
+  top: 0.00009736098581925035px;
+  left: 1430.17236328125px;
+  width: 315.5449523925781px;
+  height: 322.5712585449219px;
+  display: flex;
+  position: absolute;
+  box-shadow: 0px 2.5550196170806885px 2.5550196170806885px 0px rgba(222, 201, 201, 1) ;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: rgba(0, 0, 0, 0.23999999463558197);
+  border-style: solid;
+  border-width: 1.9162646532058716px;
+  border-radius: 10.220078468322754px;
+}
+ 
+.frame88-group1014 {
+  top: 196.73626708984375px;
+  left: 10.219942092895508px;
+  width: 255.20217895507812px;
+  height: 61.16082763671875px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+ 
+.frame88-text41 {
+  top: 32.074623107910156px;
+  left: 27.861875534057617px;
+  color: rgba(99, 99, 99, 1);
+  width: 152px;
+  height: auto;
+  position: absolute;
+  font-size: 8.942567825317383px;
+  font-style: Bold;
+  text-align: left;
+  font-family: Lato;
+  font-weight: 700;
+  line-height: 12.775097846984863px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.frame88-text42 {
+  color: rgba(0, 0, 0, 1);
+  width: 255px;
+  height: auto;
+  position: absolute;
+  font-size: 10.220078468322754px;
+  font-style: Black;
+  text-align: left;
+  font-family: Lato;
+  font-weight: 900;
+  line-height: 12.775097846984863px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.frame88-outdoorweddingvenuesinkolkatatocelebrateyourweddin14 {
+  top: 1.2772938013076782px;
+  left: -0.00009972414409276098px;
+  width: 316px;
+  height: 190px;
+  position: absolute;
+  border-radius: 6.387548923492432px 6.387548923492432px 0 0;
+}
+ 
+.frame88-group1114 {
+  top: 13.572965621948242px;
+  left: 228.23316955566406px;
+  width: 75.05946350097656px;
+  height: 40.72062683105469px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+  background-color: rgba(51, 118, 11, 1);
+}
+ 
+.frame88-star314 {
+  top: 7.756771087646484px;
+  left: 6.672073841094971px;
+  width: 25px;
+  height: 25px;
+  position: absolute;
+}
+ 
+.frame88-text43 {
+  top: 27.46649169921875px;
+  left: 265.4606018066406px;
+  color: rgba(255, 255, 255, 1);
+  width: 50px;
+  height: auto;
+  position: absolute;
+  font-size: 22.995176315307617px;
+  font-style: Black;
+  text-align: left;
+  font-family: Lato;
+  font-weight: 900;
+  line-height: 12.775097846984863px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.frame88-star714 {
+  top: 21.329524993896484px;
+  left: 234.9057159423828px;
+  width: 22px;
+  height: 19px;
+  position: absolute;
+}
+ 
+.frame88-frame852 {
+  top: 2.5549843311309814px;
+  left: 1798.73388671875px;
+  width: 315.5449523925781px;
+  height: 322.5712585449219px;
+  display: flex;
+  position: absolute;
+  box-shadow: 0px 2.5550196170806885px 2.5550196170806885px 0px rgba(222, 201, 201, 1) ;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: rgba(0, 0, 0, 0.23999999463558197);
+  border-style: solid;
+  border-width: 1.9162646532058716px;
+  border-radius: 10.220078468322754px;
+}
+ 
+.frame88-group1015 {
+  top: 196.73599243164062px;
+  left: 10.220006942749023px;
+  width: 255.20217895507812px;
+  height: 61.161258697509766px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+ 
+.frame88-text44 {
+  top: 32.0753173828125px;
+  left: 27.861940383911133px;
+  color: rgba(99, 99, 99, 1);
+  width: 152px;
+  height: auto;
+  position: absolute;
+  font-size: 8.942567825317383px;
+  font-style: Bold;
+  text-align: left;
+  font-family: Lato;
+  font-weight: 700;
+  line-height: 12.775097846984863px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.frame88-text45 {
+  color: rgba(0, 0, 0, 1);
+  width: 255px;
+  height: auto;
+  position: absolute;
+  font-size: 10.220078468322754px;
+  font-style: Black;
+  text-align: left;
+  font-family: Lato;
+  font-weight: 900;
+  line-height: 12.775097846984863px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.frame88-outdoorweddingvenuesinkolkatatocelebrateyourweddin15 {
+  top: 1.2770049571990967px;
+  left: -0.00003527646913425997px;
+  width: 316px;
+  height: 190px;
+  position: absolute;
+  border-radius: 6.387548923492432px 6.387548923492432px 0 0;
+}
+ 
+.frame88-group871 {
+  top: 13.57317066192627px;
+  left: 228.23324584960938px;
+  width: 87.26707458496094px;
+  height: 41.040000915527344px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+ 
+.frame88-group1115 {
+  top: 0px;
+  left: 0px;
+  width: 75.05946350097656px;
+  height: 40.72062683105469px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+  background-color: rgba(51, 118, 11, 1);
+}
+ 
+.frame88-text46 {
+  top: 13.892959594726562px;
+  left: 37.22751998901367px;
+  color: rgba(255, 255, 255, 1);
+  width: 50px;
+  height: auto;
+  position: absolute;
+  font-size: 22.995176315307617px;
+  font-style: Black;
+  text-align: left;
+  font-family: Lato;
+  font-weight: 900;
+  line-height: 12.775097846984863px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.frame88-star715 {
+  top: 7.756487846374512px;
+  left: 6.672632217407227px;
+  width: 22px;
+  height: 19px;
+  position: absolute;
+}
+ 
+.frame88-frame862 {
+  top: 0.00009736098581925035px;
+  left: 2178.79296875px;
+  width: 315.5449523925781px;
+  height: 322.5712585449219px;
+  display: flex;
+  position: absolute;
+  box-shadow: 0px 2.5550196170806885px 2.5550196170806885px 0px rgba(222, 201, 201, 1) ;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: rgba(0, 0, 0, 0.23999999463558197);
+  border-style: solid;
+  border-width: 1.9162646532058716px;
+  border-radius: 10.220078468322754px;
+}
+ 
+.frame88-group1016 {
+  top: 196.73626708984375px;
+  left: 10.21999740600586px;
+  width: 255.20217895507812px;
+  height: 61.16082763671875px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+ 
+.frame88-text47 {
+  top: 32.074623107910156px;
+  left: 27.86193084716797px;
+  color: rgba(99, 99, 99, 1);
+  width: 152px;
+  height: auto;
+  position: absolute;
+  font-size: 8.942567825317383px;
+  font-style: Bold;
+  text-align: left;
+  font-family: Lato;
+  font-weight: 700;
+  line-height: 12.775097846984863px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.frame88-text48 {
+  color: rgba(0, 0, 0, 1);
+  width: 255px;
+  height: auto;
+  position: absolute;
+  font-size: 10.220078468322754px;
+  font-style: Black;
+  text-align: left;
+  font-family: Lato;
+  font-weight: 900;
+  line-height: 12.775097846984863px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.frame88-outdoorweddingvenuesinkolkatatocelebrateyourweddin16 {
+  top: 1.2772938013076782px;
+  left: -0.000044075386540498585px;
+  width: 316px;
+  height: 190px;
+  position: absolute;
+  border-radius: 6.387548923492432px 6.387548923492432px 0 0;
+}
+ 
+.frame88-group872 {
+  top: 13.572965621948242px;
+  left: 228.2332305908203px;
+  width: 87.26714324951172px;
+  height: 41.04082107543945px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+ 
+.frame88-group1116 {
+  top: 0px;
+  left: 0px;
+  width: 75.05946350097656px;
+  height: 40.72062683105469px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+  background-color: rgba(51, 118, 11, 1);
+}
+ 
+.frame88-text49 {
+  top: 13.893736839294434px;
+  left: 37.227508544921875px;
+  color: rgba(255, 255, 255, 1);
+  width: 50px;
+  height: auto;
+  position: absolute;
+  font-size: 22.995176315307617px;
+  font-style: Black;
+  text-align: left;
+  font-family: Lato;
+  font-weight: 900;
+  line-height: 12.775097846984863px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.frame88-star716 {
+  top: 7.756771087646484px;
+  left: 6.672623634338379px;
+  width: 22px;
+  height: 19px;
+  position: absolute;
+}
+ 
+.frame88-homepagevenue {
+  top: 545.4967651367188px;
+  left: 0px;
+  width: 2561px;
+  height: 427.9658203125px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  background-color: rgba(255, 255, 255, 0);
+}
+ 
+.frame88-text50 {
+  top: 26.189388275146484px;
+  left: 53.6554069519043px;
+  color: rgba(59, 57, 57, 0.9700000286102295);
+  width: 364px;
+  height: auto;
+  position: absolute;
+  font-size: 30.660234451293945px;
+  font-style: Black;
+  text-align: left;
+  font-family: Lato;
+  font-weight: 900;
+  line-height: 12.775097846984863px;
+  font-stretch: normal;
+  text-decoration: none;
+  white-space: nowrap; /* Prevents text from wrapping */
+}
+ 
+.frame88-frame972 {
+  gap: 47.9066162109375px;
+  top: 79.43637084960938px;
+  left: 25.891761779785156px;
+  width: 2535px;
+  display: flex;
+  position: absolute;
+  align-items: center;
+  flex-shrink: 0;
+}
+ 
+.frame88-frame843 {
+  width: 315.5449523925781px;
+  height: 322.5712585449219px;
+  display: flex;
+  position: relative;
+  box-shadow: 0px 2.5550196170806885px 2.5550196170806885px 0px rgba(222, 201, 201, 1) ;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: rgba(0, 0, 0, 0.23999999463558197);
+  border-style: solid;
+  border-width: 1.9162646532058716px;
+  border-radius: 10.220078468322754px;
+}
+ 
+.frame88-group1017 {
+  top: 196.5057830810547px;
+  left: 9.878485679626465px;
+  width: 255.20217895507812px;
+  height: 61.16027069091797px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+ 
+.frame88-text51 {
+  top: 32.0741081237793px;
+  left: 27.86197280883789px;
+  color: rgba(99, 99, 99, 1);
+  width: 152px;
+  height: auto;
+  position: absolute;
+  font-size: 8.942567825317383px;
+  font-style: Bold;
+  text-align: left;
+  font-family: Lato;
+  font-weight: 700;
+  line-height: 12.775097846984863px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.frame88-text52 {
+  color: rgba(0, 0, 0, 1);
+  width: 255px;
+  height: auto;
+  position: absolute;
+  font-size: 10.220078468322754px;
+  font-style: Black;
+  text-align: left;
+  font-family: Lato;
+  font-weight: 900;
+  line-height: 12.775097846984863px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.frame88-outdoorweddingvenuesinkolkatatocelebrateyourweddin17 {
+  top: 1.0468060970306396px;
+  left: -0.34155645966529846px;
+  width: 316px;
+  height: 190px;
+  position: absolute;
+  border-radius: 6.387548923492432px 6.387548923492432px 0 0;
+}
+ 
+.frame88-group1117 {
+  top: 13.342477798461914px;
+  left: 227.8917236328125px;
+  width: 75.05946350097656px;
+  height: 40.72062683105469px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+  background-color: rgba(51, 118, 11, 1);
+}
+ 
+.frame88-star315 {
+  top: 7.756752014160156px;
+  left: 6.671985149383545px;
+  width: 25px;
+  height: 25px;
+  position: absolute;
+}
+ 
+.frame88-text53 {
+  top: 27.235509872436523px;
+  left: 265.119140625px;
+  color: rgba(255, 255, 255, 1);
+  width: 50px;
+  height: auto;
+  position: absolute;
+  font-size: 22.995176315307617px;
+  font-style: Black;
+  text-align: left;
+  font-family: Lato;
+  font-weight: 900;
+  line-height: 12.775097846984863px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.frame88-star717 {
+  top: 21.099037170410156px;
+  left: 234.56439208984375px;
+  width: 22px;
+  height: 19px;
+  position: absolute;
+}
+ 
+.frame88-frame853 {
+  width: 315.5449523925781px;
+  height: 322.5712585449219px;
+  display: flex;
+  position: relative;
+  box-shadow: 0px 2.5550196170806885px 2.5550196170806885px 0px rgba(222, 201, 201, 1) ;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: rgba(0, 0, 0, 0.23999999463558197);
+  border-style: solid;
+  border-width: 1.9162646532058716px;
+  border-radius: 10.220078468322754px;
+}
+ 
+.frame88-group1018 {
+  top: 196.5057830810547px;
+  left: 9.878575325012207px;
+  width: 255.20217895507812px;
+  height: 61.16027069091797px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+ 
+.frame88-text54 {
+  top: 32.0741081237793px;
+  left: 27.861940383911133px;
+  color: rgba(99, 99, 99, 1);
+  width: 152px;
+  height: auto;
+  position: absolute;
+  font-size: 8.942567825317383px;
+  font-style: Bold;
+  text-align: left;
+  font-family: Lato;
+  font-weight: 700;
+  line-height: 12.775097846984863px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.frame88-text55 {
+  color: rgba(0, 0, 0, 1);
+  width: 255px;
+  height: auto;
+  position: absolute;
+  font-size: 10.220078468322754px;
+  font-style: Black;
+  text-align: left;
+  font-family: Lato;
+  font-weight: 900;
+  line-height: 12.775097846984863px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.frame88-outdoorweddingvenuesinkolkatatocelebrateyourweddin18 {
+  top: 1.0468060970306396px;
+  left: -0.3414665758609772px;
+  width: 316px;
+  height: 190px;
+  position: absolute;
+  border-radius: 6.387548923492432px 6.387548923492432px 0 0;
+}
+ 
+.frame88-group1118 {
+  top: 13.342477798461914px;
+  left: 227.8916778564453px;
+  width: 75.05946350097656px;
+  height: 40.72062683105469px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+  background-color: rgba(51, 118, 11, 1);
+}
+ 
+.frame88-star316 {
+  top: 7.756752014160156px;
+  left: 6.672014236450195px;
+  width: 25px;
+  height: 25px;
+  position: absolute;
+}
+ 
+.frame88-text56 {
+  top: 27.235509872436523px;
+  left: 265.1191101074219px;
+  color: rgba(255, 255, 255, 1);
+  width: 50px;
+  height: auto;
+  position: absolute;
+  font-size: 22.995176315307617px;
+  font-style: Black;
+  text-align: left;
+  font-family: Lato;
+  font-weight: 900;
+  line-height: 12.775097846984863px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.frame88-star718 {
+  top: 21.099037170410156px;
+  left: 234.56436157226562px;
+  width: 22px;
+  height: 19px;
+  position: absolute;
+}
+ 
+.frame88-frame872 {
+  width: 315.5449523925781px;
+  height: 322.5712585449219px;
+  display: flex;
+  position: relative;
+  box-shadow: 0px 2.5550196170806885px 2.5550196170806885px 0px rgba(222, 201, 201, 1) ;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: rgba(0, 0, 0, 0.23999999463558197);
+  border-style: solid;
+  border-width: 1.9162646532058716px;
+  border-radius: 10.220078468322754px;
+}
+ 
+.frame88-group1019 {
+  top: 196.5057830810547px;
+  left: 9.8786039352417px;
+  width: 255.20217895507812px;
+  height: 61.16027069091797px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+ 
+.frame88-text57 {
+  top: 32.0741081237793px;
+  left: 27.861846923828125px;
+  color: rgba(99, 99, 99, 1);
+  width: 152px;
+  height: auto;
+  position: absolute;
+  font-size: 8.942567825317383px;
+  font-style: Bold;
+  text-align: left;
+  font-family: Lato;
+  font-weight: 700;
+  line-height: 12.775097846984863px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.frame88-text58 {
+  color: rgba(0, 0, 0, 1);
+  width: 255px;
+  height: auto;
+  position: absolute;
+  font-size: 10.220078468322754px;
+  font-style: Black;
+  text-align: left;
+  font-family: Lato;
+  font-weight: 900;
+  line-height: 12.775097846984863px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.frame88-outdoorweddingvenuesinkolkatatocelebrateyourweddin19 {
+  top: 1.0468060970306396px;
+  left: -0.3415612280368805px;
+  width: 316px;
+  height: 190px;
+  position: absolute;
+  border-radius: 6.387548923492432px 6.387548923492432px 0 0;
+}
+ 
+.frame88-group1119 {
+  top: 13.342477798461914px;
+  left: 227.89170837402344px;
+  width: 75.05946350097656px;
+  height: 40.72062683105469px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+  background-color: rgba(51, 118, 11, 1);
+}
+ 
+.frame88-star317 {
+  top: 7.756752014160156px;
+  left: 6.6720428466796875px;
+  width: 25px;
+  height: 25px;
+  position: absolute;
+}
+ 
+.frame88-text59 {
+  top: 27.235509872436523px;
+  left: 265.119140625px;
+  color: rgba(255, 255, 255, 1);
+  width: 50px;
+  height: auto;
+  position: absolute;
+  font-size: 22.995176315307617px;
+  font-style: Black;
+  text-align: left;
+  font-family: Lato;
+  font-weight: 900;
+  line-height: 12.775097846984863px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.frame88-star719 {
+  top: 21.099037170410156px;
+  left: 234.5643768310547px;
+  width: 22px;
+  height: 19px;
+  position: absolute;
+}
+ 
+.frame88-frame863 {
+  width: 315.5449523925781px;
+  height: 322.5712585449219px;
+  display: flex;
+  position: relative;
+  box-shadow: 0px 2.5550196170806885px 2.5550196170806885px 0px rgba(222, 201, 201, 1) ;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: rgba(0, 0, 0, 0.23999999463558197);
+  border-style: solid;
+  border-width: 1.9162646532058716px;
+  border-radius: 10.220078468322754px;
+}
+ 
+.frame88-group1020 {
+  top: 196.5057830810547px;
+  left: 9.878389358520508px;
+  width: 255.20217895507812px;
+  height: 61.16027069091797px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+ 
+.frame88-text60 {
+  top: 32.0741081237793px;
+  left: 27.861875534057617px;
+  color: rgba(99, 99, 99, 1);
+  width: 152px;
+  height: auto;
+  position: absolute;
+  font-size: 8.942567825317383px;
+  font-style: Bold;
+  text-align: left;
+  font-family: Lato;
+  font-weight: 700;
+  line-height: 12.775097846984863px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.frame88-text63 {
+  color: rgba(0, 0, 0, 1);
+  width: 255px;
+  height: auto;
+  position: absolute;
+  font-size: 10.220078468322754px;
+  font-style: Black;
+  text-align: left;
+  font-family: Lato;
+  font-weight: 900;
+  line-height: 12.775097846984863px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.frame88-outdoorweddingvenuesinkolkatatocelebrateyourweddin20 {
+  top: 1.0468060970306396px;
+  left: -0.3417764902114868px;
+  width: 316px;
+  height: 190px;
+  position: absolute;
+  border-radius: 6.387548923492432px 6.387548923492432px 0 0;
+}
+ 
+.frame88-group1120 {
+  top: 13.342477798461914px;
+  left: 227.89149475097656px;
+  width: 75.05946350097656px;
+  height: 40.72062683105469px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+  background-color: rgba(51, 118, 11, 1);
+}
+ 
+.frame88-star318 {
+  top: 7.756752014160156px;
+  left: 6.671949863433838px;
+  width: 25px;
+  height: 25px;
+  position: absolute;
+}
+ 
+.frame88-text64 {
+  top: 27.235509872436523px;
+  left: 265.1189270019531px;
+  color: rgba(255, 255, 255, 1);
+  width: 50px;
+  height: auto;
+  position: absolute;
+  font-size: 22.995176315307617px;
+  font-style: Black;
+  text-align: left;
+  font-family: Lato;
+  font-weight: 900;
+  line-height: 12.775097846984863px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.frame88-star720 {
+  top: 21.099037170410156px;
+  left: 234.5642852783203px;
+  width: 22px;
+  height: 19px;
+  position: absolute;
+}
+ 
+.frame88-frame844 {
+  width: 315.5449523925781px;
+  height: 322.5712585449219px;
+  display: flex;
+  position: relative;
+  box-shadow: 0px 2.5550196170806885px 2.5550196170806885px 0px rgba(222, 201, 201, 1) ;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: rgba(0, 0, 0, 0.23999999463558197);
+  border-style: solid;
+  border-width: 1.9162646532058716px;
+  border-radius: 10.220078468322754px;
+}
+ 
+.frame88-group1021 {
+  top: 196.5057830810547px;
+  left: 9.878660202026367px;
+  width: 255.20217895507812px;
+  height: 61.16027069091797px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+ 
+.frame88-text65 {
+  top: 32.0741081237793px;
+  left: 27.861902236938477px;
+  color: rgba(99, 99, 99, 1);
+  width: 152px;
+  height: auto;
+  position: absolute;
+  font-size: 8.942567825317383px;
+  font-style: Bold;
+  text-align: left;
+  font-family: Lato;
+  font-weight: 700;
+  line-height: 12.775097846984863px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.frame88-text66 {
+  color: rgba(0, 0, 0, 1);
+  width: 255px;
+  height: auto;
+  position: absolute;
+  font-size: 10.220078468322754px;
+  font-style: Black;
+  text-align: left;
+  font-family: Lato;
+  font-weight: 900;
+  line-height: 12.775097846984863px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.frame88-outdoorweddingvenuesinkolkatatocelebrateyourweddin21 {
+  top: 1.0468060970306396px;
+  left: -0.3413814306259155px;
+  width: 316px;
+  height: 190px;
+  position: absolute;
+  border-radius: 6.387548923492432px 6.387548923492432px 0 0;
+}
+ 
+.frame88-group1121 {
+  top: 13.342477798461914px;
+  left: 227.8918914794922px;
+  width: 75.05946350097656px;
+  height: 40.72062683105469px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+  background-color: rgba(51, 118, 11, 1);
+}
+ 
+.frame88-star319 {
+  top: 7.756752014160156px;
+  left: 6.672101020812988px;
+  width: 25px;
+  height: 25px;
+  position: absolute;
+}
+ 
+.frame88-text67 {
+  top: 27.235509872436523px;
+  left: 265.11932373046875px;
+  color: rgba(255, 255, 255, 1);
+  width: 50px;
+  height: auto;
+  position: absolute;
+  font-size: 22.995176315307617px;
+  font-style: Black;
+  text-align: left;
+  font-family: Lato;
+  font-weight: 900;
+  line-height: 12.775097846984863px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.frame88-star721 {
+  top: 21.099037170410156px;
+  left: 234.56443786621094px;
+  width: 22px;
+  height: 19px;
+  position: absolute;
+}
+ 
+.frame88-frame854 {
+  width: 315.5449523925781px;
+  height: 322.5712585449219px;
+  display: flex;
+  position: relative;
+  box-shadow: 0px 2.5550196170806885px 2.5550196170806885px 0px rgba(222, 201, 201, 1) ;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: rgba(0, 0, 0, 0.23999999463558197);
+  border-style: solid;
+  border-width: 1.9162646532058716px;
+  border-radius: 10.220078468322754px;
+}
+ 
+.frame88-group1022 {
+  top: 196.5057830810547px;
+  left: 9.878323554992676px;
+  width: 255.20217895507812px;
+  height: 61.16027069091797px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+ 
+.frame88-text68 {
+  top: 32.0741081237793px;
+  left: 27.86180877685547px;
+  color: rgba(99, 99, 99, 1);
+  width: 152px;
+  height: auto;
+  position: absolute;
+  font-size: 8.942567825317383px;
+  font-style: Bold;
+  text-align: left;
+  font-family: Lato;
+  font-weight: 700;
+  line-height: 12.775097846984863px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.frame88-text69 {
+  color: rgba(0, 0, 0, 1);
+  width: 255px;
+  height: auto;
+  position: absolute;
+  font-size: 10.220078468322754px;
+  font-style: Black;
+  text-align: left;
+  font-family: Lato;
+  font-weight: 900;
+  line-height: 12.775097846984863px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.frame88-outdoorweddingvenuesinkolkatatocelebrateyourweddin22 {
+  top: 1.0468060970306396px;
+  left: -0.34171876311302185px;
+  width: 316px;
+  height: 190px;
+  position: absolute;
+  border-radius: 6.387548923492432px 6.387548923492432px 0 0;
+}
+ 
+.frame88-group873 {
+  top: 13.342477798461914px;
+  left: 227.8915557861328px;
+  width: 87.26707458496094px;
+  height: 41.040313720703125px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+ 
+.frame88-group1122 {
+  top: 0px;
+  left: 0px;
+  width: 75.05946350097656px;
+  height: 40.72062683105469px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+  background-color: rgba(51, 118, 11, 1);
+}
+ 
+.frame88-text70 {
+  top: 13.893223762512207px;
+  left: 37.227386474609375px;
+  color: rgba(255, 255, 255, 1);
+  width: 50px;
+  height: auto;
+  position: absolute;
+  font-size: 22.995176315307617px;
+  font-style: Black;
+  text-align: left;
+  font-family: Lato;
+  font-weight: 900;
+  line-height: 12.775097846984863px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.frame88-star722 {
+  top: 7.756752014160156px;
+  left: 6.672501564025879px;
+  width: 22px;
+  height: 19px;
+  position: absolute;
+}
+ 
+.frame88-frame864 {
+  width: 315.5449523925781px;
+  height: 322.5712585449219px;
+  display: flex;
+  position: relative;
+  box-shadow: 0px 2.5550196170806885px 2.5550196170806885px 0px rgba(222, 201, 201, 1) ;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: rgba(0, 0, 0, 0.23999999463558197);
+  border-style: solid;
+  border-width: 1.9162646532058716px;
+  border-radius: 10.220078468322754px;
+}
+ 
+.frame88-group1023 {
+  top: 196.5057830810547px;
+  left: 9.878230094909668px;
+  width: 255.20217895507812px;
+  height: 61.16027069091797px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+ 
+.frame88-text71 {
+  top: 32.0741081237793px;
+  left: 27.86195945739746px;
+  color: rgba(99, 99, 99, 1);
+  width: 152px;
+  height: auto;
+  position: absolute;
+  font-size: 8.942567825317383px;
+  font-style: Bold;
+  text-align: left;
+  font-family: Lato;
+  font-weight: 700;
+  line-height: 12.775097846984863px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.frame88-text72 {
+  color: rgba(0, 0, 0, 1);
+  width: 255px;
+  height: auto;
+  position: absolute;
+  font-size: 10.220078468322754px;
+  font-style: Black;
+  text-align: left;
+  font-family: Lato;
+  font-weight: 900;
+  line-height: 12.775097846984863px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.frame88-outdoorweddingvenuesinkolkatatocelebrateyourweddin23 {
+  top: 1.0468060970306396px;
+  left: -0.34181198477745056px;
+  width: 316px;
+  height: 190px;
+  position: absolute;
+  border-radius: 6.387548923492432px 6.387548923492432px 0 0;
+}
+ 
+.frame88-group874 {
+  top: 13.342477798461914px;
+  left: 227.89146423339844px;
+  width: 87.26707458496094px;
+  height: 41.040313720703125px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+ 
+.frame88-group1123 {
+  top: 0px;
+  left: 0px;
+  width: 75.05946350097656px;
+  height: 40.72062683105469px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+  background-color: rgba(51, 118, 11, 1);
+}
+ 
+.frame88-text73 {
+  top: 13.893223762512207px;
+  left: 37.2275390625px;
+  color: rgba(255, 255, 255, 1);
+  width: 50px;
+  height: auto;
+  position: absolute;
+  font-size: 22.995176315307617px;
+  font-style: Black;
+  text-align: left;
+  font-family: Lato;
+  font-weight: 900;
+  line-height: 12.775097846984863px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.frame88-star723 {
+  top: 7.756752014160156px;
+  left: 6.672652721405029px;
+  width: 22px;
+  height: 19px;
+  position: absolute;
+}
+ 
+.frame88-frame89 {
+  top: 0px;
+  left: auto;
+  width: 1208px;
+  height: 125.19596862792969px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: rgba(194, 194, 194, 1);
+  border-style: solid;
+  border-width: 0.6387549042701721px;
+  background-color: rgba(255, 255, 255, 1);
+  position: fixed;
+}
+ 
+.frame88-frame91 {
+  top: 0px;
+  left: 408.80316162109375px;
+  width: 799px;
+  height: 125.19596862792969px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+ 
+.frame88-group88 {
+  top: 0px;
+  left: 0px;
+  width: 799.0824584960938px;
+  height: 159.67344665527344px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+ 
+.frame88-group81 {
+  top: 0px;
+  left: 0px;
+  width: 799.0824584960938px;
+  height: 159.67344665527344px;
+  display: flex;
+  position: absolute;
+  align-items: center;
+  flex-shrink: 1;
+  justify-content: flex-start;
+}
+ 
+.frame88-group4 {
+  top: 0px;
+  left: 0px;
+  width: 799.0824584960938px;
+  height: 159.67344665527344px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+ 
+.frame88-frame4 {
+  top: 0px;
+  left: 0px;
+  width: 799.0824584960938px;
+  height: 159.67344665527344px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: rgba(242, 47, 125, 1);
+  background-color: rgba(255, 255, 255, 1);
+}
+ 
+.frame88-page1 {
+  top: 133.822021484375px;
+  left: 707.5120239257812px;
+  width: 49.20796585083008px;
+  height: 48.7706413269043px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+ 
+.frame88-core {
+  top: 0px;
+  left: 0px;
+  width: 49.20796585083008px;
+  height: 48.7706413269043px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+ 
+.frame88-home {
+  top: 0px;
+  left: 0px;
+  width: 49.20796585083008px;
+  height: 48.7706413269043px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+ 
+.frame88-ellipse10 {
+  top: 18px;
+  left: 65px;
+  width: 94px;
+  height: 75px;
+  padding: 0px;
+  position: absolute;
+  border-color: rgba(242, 47, 125, 1);
+  border-width: 0px;
+}
+ 
+.frame88-ellipse9 {
+  top: 23.36651611328125px;
+  left: 237.0347442626953px;
+  width: 63px;
+  height: 68px;
+  padding: 0px;
+  position: absolute;
+  border-width: 0px;
+  border-radius: 0px;
+}
+ 
+.frame88-text74 {
+  top: 98.000732421875px;
+  left: 429.8271789550781px;
+  color: rgba(0, 0, 0, 0.7200000286102295);
+  width: 113px;
+  height: auto;
+  position: absolute;
+  font-size: 10.220078468322754px;
+  font-style: Bold;
+  text-align: left;
+  font-family: Lato;
+  font-weight: 700;
+  line-height: 12.775097846984863px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.frame88svg8665908shopshoppingicon1 {
+  top: 35.05052185058594px;
+  left: 246.01292419433594px;
+  width: 45px;
+  height: 45px;
+  position: absolute;
+}
+ 
+.frame88-text75 {
+  top: 95px;
+  left: 98px;
+  color: rgba(0, 0, 0, 0.7200000286102295);
+  width: 90px;
+  height: auto;
+  position: absolute;
+  font-size: 10.220078468322754px;
+  font-style: Bold;
+  text-align: left;
+  font-family: Lato;
+  font-weight: 700;
+  line-height: 12.775097846984863px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.frame88-text76 {
+  top: 95.81295776367188px;
+  left: 246.5592498779297px;
+  color: rgba(0, 0, 0, 0.7200000286102295);
+  width: 135px;
+  height: auto;
+  position: absolute;
+  font-size: 10.220078468322754px;
+  font-style: Bold;
+  text-align: left;
+  font-family: Lato;
+  font-weight: 700;
+  line-height: 12.775097846984863px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.frame88-shape2 {
+  top: 36px;
+  left: 81px;
+  width: 63px;
+  height: 36px;
+  position: absolute;
+}
+ 
+.frame88-frame90 {
+  top: 20.440086364746094px;
+  left: 573.6019287109375px;
+  width: 80.48312377929688px;
+  height: 92.61946105957031px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-width: 0px;
+  border-radius: 0px;
+}
+ 
+.frame88-group90 {
+  top: 2.92657732963562px;
+  left: 8.210142135620117px;
+  width: 103.96794891357422px;
+  height: 112.66886138916016px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+ 
+.frame88-ellipse8 {
+  top: 0px;
+  left: 0px;
+  width: 63px;
+  height: 68px;
+  position: absolute;
+}
+ 
+.frame88svg9023685paintbrushfillicon1 {
+  top: 11.683819770812988px;
+  left: 5.387012004852295px;
+  width: 57px;
+  height: 49px;
+  position: absolute;
+}
+ 
+.frame88-text77 {
+  top: 73.72394561767578px;
+  left: 5.203708648681641px;
+  color: rgba(0, 0, 0, 0.7200000286102295);
+  width: 99px;
+  height: auto;
+  position: absolute;
+  font-size: 10.220078468322754px;
+  font-style: Bold;
+  text-align: left;
+  font-family: Lato;
+  font-weight: 700;
+  line-height: 12.775097846984863px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.frame88-group75 {
+  top: 23.36651611328125px;
+  left: 420.19830322265625px;
+  width: 62.850032806396484px;
+  height: 68.1532974243164px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+ 
+.frame88-ellipse7 {
+  top: 0px;
+  left: 0px;
+  width: 63px;
+  height: 68px;
+  position: absolute;
+}
+ 
+.frame88svg7851314financialinvestmentbudgetpaymentbagicon1 {
+  top: 1.9474823474884033px;
+  left: 3.5912797451019287px;
+  width: 59px;
+  height: 53px;
+  position: absolute;
+}
+ 
+.frame88-text78 {
+  top: 17.246845245361328px;
+  left: 35.13154983520508px;
+  color: rgba(255, 28, 31, 1);
+  width: 379px;
+  height: auto;
+  position: absolute;
+  font-size: 61.32046890258789px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Amarante;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
